@@ -17,7 +17,7 @@
 ## 🤖 About Me
 
 
-* 🇺🇸 Based in Alaska, USA
+* 🇺🇸 Based in USA
 * 📚 Certifications: CompTIA Network+, Security+ and Google Cybersecurity Certificate
 * 🧠 Visual learner focused on hands-on, lab-based learning
 * 🔧 Building and experimenting with (Raspberry Pi, networking, Linux environments)
