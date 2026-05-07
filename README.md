@@ -20,7 +20,7 @@
 * 🇺🇸 Based in USA
 * 📚 Certifications: CompTIA Network+, Security+ and Google Cybersecurity Certificate
 * 🧠 Visual learner focused on hands-on learning
-* 🚀 Top 1% TryHackMe through Hands-on CTFs
+* 🚀 Ranked Top 1% TryHackMe through Hands-on CTFs
 * 🎓 High school student 
   
 ---
@@ -30,7 +30,7 @@
 * Python (automation, scripting, cybersecurity tools)
 * Linux & networking administration
 * Cybersecurity (pentesting, Burp Suite)
-* Physics (Entropy, Sustainable Energy, Electromagnetic fields, and Electrons) 
+* Physics (entropy, electromagnetism, energy systems, and quantum randomness) 
 
 ---
 
