@@ -63,7 +63,7 @@
 
 ## ⚡ Fun Fact
 
-I’m building my career from scratch through hands-on labs, certifications, and consistent daily practice in cybersecurity and systems engineering.
+At the smallest scale, physics isn’t deterministic. Events like electron emission or photon detection are governed by probability, not certainty (quantum mechanics). That’s why TRNG is ideal for true randomness.
 
 ---
 
