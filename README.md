@@ -37,7 +37,7 @@
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,github,ansible,cisco" />
+  <img src="https://skillicons.dev/icons?i=python,linux,ansible" />
 </div>
 
 ---
@@ -45,13 +45,11 @@
 ## 🚀 Projects & Goals
 
 * 🤖 Leveraging Systems Automation for saving time/manpower
-* 🌐 Cisco IOS XR and NSO, YANG
-* 🧪 Building and automating a Raspberry Pi homelab for networking, system testing, and security experiments
-* 🤖 Developing Python-based automation tools for systems tasks, device interaction, and workflow optimization
-* 🌐 Exploring Cisco IOS XR networking environments and service provider–grade configurations
+* 🌐 Cisco IOS XR and NSO, YANG for network programmability and SP automation
+* 🐍 Developing Python-based automation tools for system administration, device interaction, and workflow optimization
 * ⚙️ Learning infrastructure automation with Ansible for scalable configuration management
-* 🏭 Studying industrial systems fundamentals, including PLC concepts and basic industrial control logic
-* 💾 Working with Linux filesystems (ext4, exFAT, etc.) and cross-platform storage environments for system compatibility testing
+* 🏭 Studying industrial systems fundamentals, including PLC concepts, RTOS, SCADA and industrial control logic
+* 💾 Working with Linux filesystems (ext4, exFAT, etc.) 
 
 ---
 
