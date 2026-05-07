@@ -16,9 +16,8 @@
 
 ## 🤖 About Me
 
-* 🇺🇸 Living in Alaska, USA (moved from the Philippines)
+* 🇺🇸 Living in Alaska, USA
 * 🎓 High school student passionate about tech & cybersecurity
-* 💻 Future Software Engineer / Cybersecurity Engineer
 * 📚 Certifications: CompTIA Network+, Security+
 * 🧠 Visual learner who builds through hands-on projects
 * 🔧 Currently working on homelabs (Raspberry Pi, networking, Linux)
