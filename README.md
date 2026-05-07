@@ -27,9 +27,8 @@
 
 ## 🧠 What I'm Learning
 
-* HTML, CSS, JavaScript
 * Python (automation, scripting, cybersecurity tools)
-* Linux & networking fundamentals
+* Linux & networking 
 * Cybersecurity labs (pentesting basics, Burp Suite)
 
 ---
