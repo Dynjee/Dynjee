@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="280" />
+  <img src="https://imgur.com/zeuHIk9.gif" width="380" />
 </div>
 
 ---
