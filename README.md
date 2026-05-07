@@ -36,7 +36,7 @@
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,linux,github,ansible,cisco" />
 </div>
 
 ---
