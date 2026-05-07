@@ -1,7 +1,7 @@
 # 👋 Hi, I'm DJ
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Cybersecurity+Networks+Automation+Physics;Building+Homelabs+%26+Pentesting+Skills;CompTIA+Network%2B+%7C+CompTIA+Security%2B+%7C+Google+Cybersecurity+Certificate;Based+in+Alaska%2C+USA&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Cybersecurity+Networks+Automation+Physics;Building+Homelabs+%26+Pentesting+Skills;CompTIA Network%2B | CompTIA Security%2B | Google Cybersecurity Certificate;Based+in+Alaska%2C+USA&center=true&width=500&height=50" />
 </div>
 
 <div align="center">
