@@ -1,7 +1,7 @@
 # 👋 Hi, I'm DJ
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Aspiring+Cybersecurity+Engineer;Future+Software+Engineer;Building+Homelabs+%26+Pentesting+Skills;CompTIA+Network%2B+%7C+Security%2B;Based+in+Alaska%2C+USA&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Cybersecurity+Networks+Automation+Physics;Building+Homelabs+%26+Pentesting+Skills;CompTIA+Network%2B+%7C+Security%2B;Based+in+Alaska%2C+USA&center=true&width=500&height=50" />
 </div>
 
 <div align="center">
