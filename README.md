@@ -44,7 +44,7 @@
 
 ## 🚀 Projects & Goals
 
-* 🤖 Leveraging Systems Automation for saving time/manpower
+* 🤖 Leveraging Systems Automation for saving time
 * 🌐 Cisco IOS XR and NSO, YANG for network programmability and SP automation
 * 🐍 Developing Python-based automation tools for system administration, device interaction, and workflow optimization
 * ⚙️ Learning infrastructure automation with Ansible for scalable configuration management
