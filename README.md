@@ -16,19 +16,20 @@
 
 ## 🤖 About Me
 
-* 🇺🇸 Living in Alaska, USA
-* 🎓 High school student passionate about tech & cybersecurity
-* 📚 Certifications: CompTIA Network+, Security+
-* 🧠 Visual learner who builds through hands-on projects
-* 🔧 Currently working on homelabs (Raspberry Pi, networking, Linux)
-* 🚫 Actively reducing distractions to focus on long-term goals
 
+* 🇺🇸 Based in Alaska, USA
+* 📚 Certifications: CompTIA Network+, Security+ and Google Cybersecurity Certificate
+* 🧠 Visual learner focused on hands-on, lab-based learning
+* 🔧 Building and experimenting with (Raspberry Pi, networking, Linux environments)
+* 🚀 Top 1% TryHackMe through Hands-on CTFs
+* 🎓 High school student 
+  
 ---
 
-## 🧠 What I'm Learning
+## 🧠 What i'm learning
 
 * Python (automation, scripting, cybersecurity tools)
-* Linux & networking 
+* Linux & networking administration
 * Cybersecurity (pentesting, Burp Suite)
 * Physics (Entropy, Sustainable Energy, Electromagnetic fields, and Electrons) 
 
@@ -45,8 +46,7 @@
 ## 🚀 Projects & Goals
 
 * 🧪 Building a Raspberry Pi homelab
-* 🌐 GitHub Pages cybersecurity portfolio
-* 🔐 Learning ethical hacking fundamentals
+* 🔐 Learning ethical hacking 
 * 📡 Networking & system administration practice
 
 ---
@@ -63,10 +63,10 @@
 
 ## ⚡ Fun Fact
 
-At the smallest scale, physics isn’t deterministic. Events like electron emission or photon detection are governed by probability, not certainty (quantum mechanics). That’s why TRNG is ideal for true randomness.
+Events like electron emission or photon detection are governed by probability, not certainty (quantum mechanics). That’s why TRNG is ideal for true randomness.
 
 ---
 
 <div align="center">
-  <i>"Philippians 4:6–7"</i>
+  <i>"I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit; apart from me you can do nothing - John 15:5"</i>
 </div>
