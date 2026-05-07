@@ -29,7 +29,8 @@
 
 * Python (automation, scripting, cybersecurity tools)
 * Linux & networking 
-* Cybersecurity labs (pentesting basics, Burp Suite)
+* Cybersecurity (pentesting, Burp Suite)
+* Physics (Entropy, Sustainable Energy, Electromagnetic fields, and Electrons) 
 
 ---
 
@@ -60,17 +61,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</div>
-
----
-
 ## ⚡ Fun Fact
 
 I’m building my career from scratch through hands-on labs, certifications, and consistent daily practice in cybersecurity and systems engineering.
@@ -78,5 +68,5 @@ I’m building my career from scratch through hands-on labs, certifications, and
 ---
 
 <div align="center">
-  <i>"Consistency beats motivation."</i>
+  <i>"Philippians 4:6–7"</i>
 </div>
