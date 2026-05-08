@@ -37,7 +37,7 @@
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,ansible,RESTful,SQL" />
+  <img src="https://skillicons.dev/icons?i=python,linux,ansible,rest,sql />
 </div>
 
 ---
