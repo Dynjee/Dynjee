@@ -18,7 +18,7 @@
 
 
 * 🇺🇸 Based in USA
-* 📚 Certifications: Network+, Security+ and Google Cybersecurity Certificate
+* 📚 Certifications: Network+, Security+, Google Cybersecurity Certificate and working towards CCNA Automation.
 * 🧠 Visual learner focused on hands-on learning
 * 🚀 Ranked Top 1% TryHackMe through Hands-on CTFs
 * 🎓 High school student 
