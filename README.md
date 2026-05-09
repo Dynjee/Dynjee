@@ -8,10 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&theme=cobalt" />
 </div>
 
-<div align="center">
-  <img src="https://imgur.com/zeuHIk9.gif" width="380" />
-</div>
-
 ---
 
 ## 🤖 About Me
