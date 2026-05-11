@@ -29,7 +29,7 @@
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,ansible,wireshark" />
+<img src="https://skillicons.dev/icons?i=python,linux,windows,ansible,raspberrypi" />
 </div>
 
 ---
