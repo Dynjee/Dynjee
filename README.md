@@ -1,7 +1,7 @@
 # 👋 Hi, I'm DJ
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Cybersecurity+Networks+Automation+Physics;Building+Homelabs+%26+Pentesting+Skills;Meets+DoD+8140+IAT+Level+II+requirements;Based+in+USA&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Cybersecurity+Networks+Automation+Physics;Building+Homelabs+%26+Pentesting+Skills;Meets+DoD+8140+IAT+Level+II+requirements;Based+in+USA&center=true&width=500&height=50&color=FF0055" />
 </div>
 
 ---
