@@ -1,4 +1,4 @@
-# Hi, I'm DJ😊
+# Hi, I'm DJ
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Cybersecurity,+Networking,+Automation,+Physics;Top+1%25+TryHackMe+Ranked+User;Meets+DoD+8140+IAT+Level+II+Requirements;Building+Homelabs+and+Pentesting+Skills;&center=true&width=700&height=60&color=FF0055&background=000000&size=24&pause=1000" />
