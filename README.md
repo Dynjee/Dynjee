@@ -47,7 +47,7 @@
 
 ## 📌Featured Projects
 * Cybersecurity – Burp Suite scripts, 802.1X, Bugs found and defense-in-depth
-* Networking (Automation, Ansible, Enterprise Networks + Configurations) – IPSec, DMZ, VLANs, OSPF, LACP, etc. configs automation and network labs
+* Networking (Automation, Ansible, Enterprise Networks + Configurations) – IPSec, DMZ, VLANs, VPN Concentrators, OSPF, LACP, etc. configs automation and network labs
 * Embedded Systems – Electronics projects such as; RFID and Digital Watch
 
 ## ⚡ Fun Fact
