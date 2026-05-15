@@ -46,9 +46,9 @@
 ---
 
 ## 📌 Featured Projects
-- Electronics (Raspberry Pi + GPIO + Python)
-- Network Automation Lab (Ansible + Linux)
-- TryHackMe Writeups (Top 1% ranking)
+Cybersecurity – Burp Suite Scripts, 802.1X, Bugs found and Defense-in-Depth
+Networking (Automation, Ansible, Enterprise Networks + Configurations) – IPSec, DMZ, VLANs, OSPF, LACP, etc. configs automation and network labs
+Embedded Systems – Electronics projects such as; RFID and Digital Watch
 
 ---
 
