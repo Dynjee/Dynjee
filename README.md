@@ -45,6 +45,12 @@
 
 ---
 
+## 📌 Featured Projects
+- Electronics (Raspberry Pi + GPIO + Python)
+- Network Automation Lab (Ansible + Linux)
+- TryHackMe Writeups (Top 1% ranking)
+
+---
 
 ## ⚡ Fun Fact
 
