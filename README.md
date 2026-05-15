@@ -46,9 +46,9 @@
 ---
 
 ## 📌 Featured Projects
-*Cybersecurity – Burp Suite Scripts, 802.1X, Bugs found and Defense-in-Depth
-*Networking (Automation, Ansible, Enterprise Networks + Configurations) – IPSec, DMZ, VLANs, OSPF, LACP, etc. configs and automation
-*Embedded Systems – Electronics projects such as; RFID and Digital Watch
+* Cybersecurity – Burp Suite Scripts, 802.1X, Bugs found and Defense-in-Depth
+* Networking (Automation, Ansible, Enterprise Networks + Configurations) – IPSec, DMZ, VLANs, OSPF, LACP, etc. configs and automation
+* Embedded Systems – Electronics projects such as; RFID and Digital Watch
 
 ---
 
