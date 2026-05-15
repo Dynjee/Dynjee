@@ -22,7 +22,7 @@
 * Python (automation, scripting, cybersecurity tools)
 * Linux & networking administration
 * Cybersecurity (pentesting, Burp Suite)
-* Physics (entropy, electromagnetism, energy systems, and quantum randomness) 
+* Physics (entropy, electromagnetism, energy systems, and quantum randomness honestly? everyhing is physics! like Ohm's law, Farrads, MOSFETS and EAP) 
 
 ---
 
@@ -45,12 +45,10 @@
 
 ---
 
-## 📌 Featured Projects
-* Cybersecurity – Burp Suite Scripts, 802.1X, Bugs found and Defense-in-Depth
-* Networking (Automation, Ansible, Enterprise Networks + Configurations) – IPSec, DMZ, VLANs, OSPF, LACP, etc. configs and automation
-* Embedded Systems – Electronics projects such as; RFID and Digital Watch
-
----
+## ⚡ Fun Fact
+Embedded Systems – Electronics projects such as; RFID and Digital Watch
+Networking (Automation, Ansible, Enterprise Networks + Configurations) – IPSec, DMZ, VLANs, OSPF, LACP, etc. configs automation and network labs
+Cybersecurity – Burp Suite scripts, 802.1X, and defense-in-depth
 
 ## ⚡ Fun Fact
 
