@@ -16,7 +16,7 @@
 ---
 
 ## 🧠 What i'm learning
-* Embeddeed Systems ( IoT, RTOS, MCU, SoC, and FPGA)
+* Embedded Systems ( IoT, RTOS, MCU, SoC, and FPGA)
 * Python (automation, scripting, cybersecurity tools)
 * Linux & networking administration
 * Cybersecurity (pentesting, Burp Suite)
