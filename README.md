@@ -11,12 +11,12 @@
 * 📚 Certifications: Security+, Network+, Google Cybersecurity Certificate and working towards CCNA Automation.
 * 🧠 Break, Build, Understand
 * 🚀 Ranked Top 1% TryHackMe through Hands-on CTFs (verified via platform profile)
-* 🎓 High school student 
+* 🎓 High school student / Student at FEDEVEL studying Advanced hardware design.
   
 ---
 
 ## 🧠 What i'm learning
-
+* Embeddeed Systems ( IoT, RTOS, MCU, SoC, and FPGA)
 * Python (automation, scripting, cybersecurity tools)
 * Linux & networking administration
 * Cybersecurity (pentesting, Burp Suite)
@@ -32,21 +32,12 @@
 
 ---
 
-## 🚀 Projects & Goals
-
-* 🤖 Leveraging Systems Automation for saving time
-* 🌐 Cisco IOS XR and NSO, YANG for network programmability and SP automation
-* 🐍 Developing Python-based automation tools for system administration, device interaction, and workflow optimization
-* ⚙️ Learning infrastructure automation with Ansible for scalable configuration management
-* 🏭 Studying industrial systems fundamentals, including PLC concepts, RTOS, SCADA and industrial control logic
-* 💾 Working with Linux filesystems (ext4, exFAT, etc.) 
-
----
-
 ## 📌Featured Projects
-* Cybersecurity – Burp Suite scripts, 802.1X, Bugs found and defense-in-depth
+
+* Embedded Systems – System-on-Chip (SoC). RF, Etc.
 * Networking (Automation, Ansible, Enterprise Networks + Configurations) – IPSec, DMZ, VLANs, VPN Concentrators, OSPF, LACP, etc. configs automation and network labs
-* Embedded Systems – Electronics projects such as; RFID and Digital Watch
+* Cybersecurity – Burp Suite scripts, 802.1X, Bugs found and defense-in-depth
+
 
 ## ⚡ Fun Fact
 
