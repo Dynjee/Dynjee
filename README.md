@@ -11,7 +11,7 @@
 * 📚 Certifications: Security+, Network+, Google Cybersecurity Certificate and working towards CCNA Automation.
 * 🧠 Break, Build, Understand
 * 🚀 Ranked Top 1% TryHackMe through Hands-on CTFs (verified via platform profile)
-* 🎓 High school student / Student at FEDEVEL studying Advanced hardware design.
+* 🎓 High school student / Student at FEDEVEL studying Advanced Hardware Design.
   
 ---
 
