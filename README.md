@@ -5,13 +5,10 @@
 ---
 
 ## 🤖 About Me
+17-year-old AI Engineering Major and Advanced Repair Technician @ Geek Squad.
+Security+ | Network+ | Google Cybersecurity Certificate
+Top 1% TryHackMe (verified via platform profile)
 
-* 🛠️ Advanced Repair Technician @ Geek Squad
-* 🇺🇸 Based in USA
-* 📚 Certifications: Security+, Network+, Google Cybersecurity Certificate and working towards CCNA Automation.
-* 🚀 Top 1% TryHackMe through Hands-on CTFs (verified via platform profile)
-* 🎓 AI Engineering Major and FEDEVEL Academy
-  
 ---
 
 ## 🧠 What i'm learning
