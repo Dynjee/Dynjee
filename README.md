@@ -11,15 +11,6 @@ Top 1% TryHackMe (verified via platform profile)
 
 ---
 
-## 🧠 What i'm learning
-* Embedded Systems ( IoT, RTOS, MCU, SoC, and FPGA)
-* Python (automation, scripting, cybersecurity tools)
-* Linux & networking administration
-* Cybersecurity (pentesting, Burp Suite)
-* Physics (entropy, electromagnetism, energy systems, and quantum randomness honestly? everyhing is physics! like Ohm's law, Farrads, MOSFETS and EAP) 
-
----
-
 ## 🛠️ Tools & Technologies
 
 <div align="center">
