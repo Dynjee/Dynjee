@@ -9,7 +9,7 @@
 * Advanced Repair Technician @ Geek Squad
 * Security+ | Network+ | Google Cybersecurity Certificate
 * Top 1% TryHackMe (verified via platform profile)
-* High School Student/AI Engineering Major and FEDEVEL Academy student
+* High School Student/AI Engineering Major @ WGU Dual enrollment
 
 ---
 
