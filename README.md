@@ -7,7 +7,7 @@
 ## 🤖 About Me
 * 17 years old based in USA
 * I currently work as a Advanced Repair Technician at Geek Squad
-* Security+ | Network+ | Google Cybersecurity Certificate
+* Certifications: Security+ | Network+ | Google Cybersecurity Certificate
 * Top 1% TryHackMe (verified via platform profile)
 * High School Student/AI Engineering Major at WGU Dual enrollment
 
