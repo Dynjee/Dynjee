@@ -6,9 +6,10 @@
 
 ## 🤖 About Me
 * 17 years old based in USA
-* AI Engineering Major and Advanced Repair Technician @ Geek Squad.
+* Advanced Repair Technician @ Geek Squad.
 * Security+ | Network+ | Google Cybersecurity Certificate
 * Top 1% TryHackMe (verified via platform profile)
+* AI Engineering Major and FEDEVEL Academy student
 
 ---
 
