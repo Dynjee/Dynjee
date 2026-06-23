@@ -5,9 +5,9 @@
 ---
 
 ## 🤖 About Me
-17-year-old AI Engineering Major and Advanced Repair Technician @ Geek Squad.
-Security+ | Network+ | Google Cybersecurity Certificate
-Top 1% TryHackMe (verified via platform profile)
+* 17 years old AI Engineering Major and Advanced Repair Technician @ Geek Squad.
+* Security+ | Network+ | Google Cybersecurity Certificate
+* Top 1% TryHackMe (verified via platform profile)
 
 ---
 
