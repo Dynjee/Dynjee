@@ -9,7 +9,7 @@
 * I currently work as a Advanced Repair Technician at Geek Squad
 * Certifications: Security+ | Network+ | Google Cybersecurity Certificate
 * Top 1% TryHackMe (verified via platform profile)
-* High School Student/AI Engineering Major at WGU currently getting prerequisites
+* High School Student/AI Engineering Major at WGU currently doing prerequisites
 
 ---
 
