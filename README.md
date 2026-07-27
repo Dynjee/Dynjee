@@ -16,7 +16,7 @@
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,windows,ansible,raspberrypi,bash, rust" />
+<img src="https://skillicons.dev/icons?i=python,linux,windows,ansible,raspberrypi,bash,rust" />
 </div>
 
 ---
